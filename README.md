@@ -34,4 +34,4 @@ El análisis se realizó utilizando tres fuentes de datos:
 4.  Ejecuta las celdas en orden secuencial (Run All).
 
 ---
-*Análisis realizado por: [Tu Nombre Aquí]*
+*Análisis realizado por: Miguel Angel Trujillo Morales*
